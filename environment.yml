@@ -5,5 +5,4 @@ dependencies:
   - pandas
   - bokeh
   - rise
-  - datetime
 
