@@ -1,4 +1,4 @@
-# Notebook_Traitement d'images
+# SNT_Traitement d'images à l'aide d'un Notebook
 notebook sur la manipulaton des images en SNT.
 Prise de contact, manipulations élémentaires.
 
